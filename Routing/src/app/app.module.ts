@@ -31,6 +31,6 @@ const appRoute: Routes = [
     RouterModule.forRoot(appRoute)
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, ProductsComponent]
 })
 export class AppModule { }
