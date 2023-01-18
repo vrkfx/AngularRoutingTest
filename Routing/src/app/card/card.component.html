@@ -1,24 +1,28 @@
 
 
-<div *ngFor=" let j of productsArray">
-  <div *ngFor="let i of j.products" class="card" style="width: 18rem;">
+<div class="row" *ngFor=" let j of productsArray">
+  <div class=" col justify-content-center" *ngFor="let i of j.products" >
+    <div class="card">
     <div *ngIf="i.productImage" >
     <img class="card-img-top" [src]=" i.productImage" alt="Card image cap">
     </div>
     <div class="card-body">
-      <h5 class="card-title">{{i.productName}}</h5>
-      <p class="card-text">{{ i.productPrice}} || {{ i.rating }}</p>
+      <h4 class="card-title">{{i.productName}}</h4>
+      <h5 class="card-text">$ {{ i.productPrice}} </h5>
+      <h6 class="card-text"> Rating {{ i.rating }}</h6>
+    </div>
+    <div class="button">
       <a href="#" class="btn btn-primary">Go somewhere</a>
     </div>
-
     <!-- Need to use of instead of IN -->
-    <div *ngFor=" let i of productsArray">getListData
+    <!-- <div *ngFor=" let i of productsArray">getListData
       {{i.products[0].productId}}
+    </div> -->
     </div>
   </div>
+</div>
 
-
-   <div *ngFor=" let j of productsArray">
+   <!-- <div *ngFor=" let j of productsArray">
     {{j.products}}
     <div *ngFor="let i of j.products">
       {{  i.productImage}}
@@ -27,6 +31,6 @@
     {{i.productSalePrice}}
    {{ i.rating }}
   </div>
-   </div>
+   </div> -->
 
-</div>
+<!-- </div> -->

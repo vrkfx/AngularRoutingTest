@@ -28,15 +28,6 @@
      "rating":4
   },
   {
-     "productId":1003,
-     "productName":"spatial plum Mattie",
-     "productImage":"https://picsum.photos/400?image=753",
-     "productStock":74,
-     "productPrice":"32827.45",
-     "productSalePrice":"32827.45",
-     "rating":2
-  },
-  {
      "productId":1004,
      "productName":"arrogant tan Nelia",
      "productImage":"https://picsum.photos/400?image=924",
@@ -53,15 +44,6 @@
      "productPrice":"34617.96",
      "productSalePrice":"34617.96",
      "rating":3
-  },
-  {
-     "productId":1006,
-     "productName":"continued rose Nesta",
-     "productImage":"https://picsum.photos/400?image=712",
-     "productStock":34,
-     "productPrice":"27822.85",
-     "productSalePrice":"27822.85",
-     "rating":1
   },
   {
      "productId":1007,
@@ -235,15 +217,6 @@
      "rating":2
   },
   {
-     "productId":1026,
-     "productName":"initial pink Riane",
-     "productImage":"https://picsum.photos/400?image=917",
-     "productStock":70,
-     "productPrice":"34095.19",
-     "productSalePrice":"34095.19",
-     "rating":5
-  },
-  {
      "productId":1027,
      "productName":"long yellow Dorey",
      "productImage":"https://picsum.photos/400?image=419",
@@ -304,15 +277,6 @@
      "productStock":78,
      "productPrice":"27159.30",
      "productSalePrice":"11950.09",
-     "rating":5
-  },
-  {
-     "productId":1034,
-     "productName":"forward green Alis",
-     "productImage":"https://picsum.photos/400?image=746",
-     "productStock":23,
-     "productPrice":"27608.78",
-     "productSalePrice":"27608.78",
      "rating":5
   },
   {
@@ -422,15 +386,6 @@
      "productPrice":"21625.98",
      "productSalePrice":"8001.61",
      "rating":3
-  },
-  {
-     "productId":1047,
-     "productName":"old lime Elvera",
-     "productImage":"https://picsum.photos/400?image=761",
-     "productStock":4,
-     "productPrice":"30869.36",
-     "productSalePrice":"30869.36",
-     "rating":5
   },
   {
      "productId":1048,
@@ -613,15 +568,6 @@
      "rating":2
   },
   {
-     "productId":1068,
-     "productName":"primary gold Tera",
-     "productImage":"https://picsum.photos/400?image=463",
-     "productStock":88,
-     "productPrice":"25121.63",
-     "productSalePrice":"25121.63",
-     "rating":4
-  },
-  {
      "productId":1069,
      "productName":"geographical amethyst Tania",
      "productImage":"https://picsum.photos/400?image=14",
@@ -676,15 +622,6 @@
      "rating":4
   },
   {
-     "productId":1075,
-     "productName":"ready chocolate Mirelle",
-     "productImage":"https://picsum.photos/400?image=843",
-     "productStock":38,
-     "productPrice":"24113.38",
-     "productSalePrice":"24113.38",
-     "rating":3
-  },
-  {
      "productId":1076,
      "productName":"secondary red Blythe",
      "productImage":"https://picsum.photos/400?image=350",
@@ -692,15 +629,6 @@
      "productPrice":"47086.10",
      "productSalePrice":"9888.08",
      "rating":2
-  },
-  {
-     "productId":1077,
-     "productName":"known orange Nollie",
-     "productImage":"https://picsum.photos/400?image=578",
-     "productStock":18,
-     "productPrice":"30645.75",
-     "productSalePrice":"30645.75",
-     "rating":3
   },
   {
      "productId":1078,
@@ -739,30 +667,12 @@
      "rating":2
   },
   {
-     "productId":1082,
-     "productName":"conscious magenta Jessie",
-     "productImage":"https://picsum.photos/400?image=707",
-     "productStock":36,
-     "productPrice":"1355.81",
-     "productSalePrice":"1355.81",
-     "rating":3
-  },
-  {
      "productId":1083,
      "productName":"shiny silver Tammie",
      "productImage":"https://picsum.photos/400?image=531",
      "productStock":55,
      "productPrice":"35674.84",
      "productSalePrice":"10702.45",
-     "rating":4
-  },
-  {
-     "productId":1084,
-     "productName":"wasteful orange Stephana",
-     "productImage":"https://picsum.photos/400?image=540",
-     "productStock":26,
-     "productPrice":"9266.72",
-     "productSalePrice":"9266.72",
      "rating":4
   },
   {
@@ -809,24 +719,6 @@
      "productPrice":"31625.74",
      "productSalePrice":"31625.74",
      "rating":5
-  },
-  {
-     "productId":1090,
-     "productName":"ambitious amber Alayne",
-     "productImage":"https://picsum.photos/400?image=592",
-     "productStock":83,
-     "productPrice":"23998.74",
-     "productSalePrice":"9359.51",
-     "rating":4
-  },
-  {
-     "productId":1091,
-     "productName":"nice indigo Steffie",
-     "productImage":"https://picsum.photos/400?image=644",
-     "productStock":3,
-     "productPrice":"18201.33",
-     "productSalePrice":"18201.33",
-     "rating":4
   },
   {
      "productId":1092,
