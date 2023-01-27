@@ -13,6 +13,7 @@ import { CardComponent } from './card/card.component';
 //Routes Definition
 import { Routes, RouterModule } from '@angular/router';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NavbarComponent } from './navbar/navbar.component';
 const appRoute: Routes = [
   // {path: '', component:HomeComponent},
   {path: 'Home', component:HomeComponent},
@@ -29,6 +30,7 @@ const appRoute: Routes = [
     ProductsComponent,
     TestComponent,
     CardComponent,
+    NavbarComponent,
 
   ],
   imports: [
